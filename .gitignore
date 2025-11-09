@@ -1,9 +1,23 @@
-# Archivos Python
-*.pyc
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# Configuración local
+# Virtualenv
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Local env
 .env
 
-# Entorno de VSCode
-.vscode/
+# Data (si no quieres subir datasets pesados)
+data/*.csv
+data/*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
