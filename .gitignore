@@ -1,0 +1,9 @@
+# Archivos Python
+*.pyc
+__pycache__/
+
+# Configuración local
+.env
+
+# Entorno de VSCode
+.vscode/
