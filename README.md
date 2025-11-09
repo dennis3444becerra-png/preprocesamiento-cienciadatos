@@ -1,10 +1,13 @@
-# preprocesamiento-cienciadatos# Proyecto: Preprocesamiento de Datos con Pandas
+# Preprocesamiento de datos con Pandas
 
-## 🎯 Objetivo
-Implementar un flujo de preprocesamiento de datasets usando Pandas que incluya:
-- Manejo de valores nulos
-- Normalización de variables numéricas
-- Codificación de variables categóricas
-- Eliminación de duplicados
+# Objetivo
+Aplicar Git y GitHub y crear un pipeline de preprocesamiento en Python usando Pandas.
 
-## 📂 Estructura del proyecto
+## Estructura
+preprocesamiento-cienciadatos/
+├── README.md
+├── .gitignore
+├── preprocesamiento.py
+├── DOCUMENTACION.md
+├── data/
+└── .github/workflows/
